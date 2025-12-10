@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharrsan Amarnath</h1>
-<h3 align="center">CS Graduate, This is a new github profile, A fresh start. A DevOps Engineer getting into heart of Rust development and Linux. Will eventually be doing some great Blockchain work !</h3>
+<h3 align="center">A DevOps Engineer. doing some great Blockchain work !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebigmatchplayer&label=Profile%20views&color=0e75b6&style=flat" alt="thebigmatchplayer" /> </p>
 
