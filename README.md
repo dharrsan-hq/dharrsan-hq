@@ -3,13 +3,15 @@
 
 - 🔭 I’m currently working on my [homelab](https://github.com/dharrsan-hq/homelab-cluster)
 
-- 💬 Ask me about **Homelab, Servers, Docker, Linux, Kubernetes, Blockchain, Golang**
+- 🌱 I’m currently learning **Systems Programming in C**
+
+- 💬 Ask me about **Docker, Linux, Kubernetes, Blockchain, Golang**
 
 - 📫 How to reach me **dharrsan.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dharrsan-amarnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharrsan-amarnath" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharrsan-amarnath-75017221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharrsan-amarnath-75017221a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
